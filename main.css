@@ -1,0 +1,25 @@
+.coming-soon-h1 {
+ padding-top: 40px;
+}
+
+.coming-soon-h1, .coming-soon-h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-size: 1.25em;
+  /* text-align: center;*/
+  margin-left: 20px;
+} 
+
+.coming-soon-h2 {
+  top:70px;
+  font-size: 1.25em;
+}
+
+.construction-container {
+  background-image: url("imgs/marah_red_silk.jpeg");
+  height: 700px; 
+  /* width: 500px; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
