@@ -1,25 +1,22 @@
 .coming-soon-h1 {
- padding-top: 40px;
+ padding-top: 10vh;
 }
 
-.coming-soon-h1, .coming-soon-h2 {
+.coming-soon-h1 {
   font-family: 'Roboto', sans-serif;
   color: #fff;
   font-size: 1.25em;
-  /* text-align: center;*/
-  margin-left: 20px;
+  margin-left: 4vw;
 } 
 
 .coming-soon-h2 {
-  top:70px;
-  font-size: 1.25em;
+  font-size: 1em;
 }
 
 .construction-container {
-  background-image: url("imgs/marah_red_silk.jpeg");
+  background-image: url("imgs/marah_velvet_suit_edit2.jpeg");
   height: 700px; 
-  /* width: 500px; */
-  background-position: center;
+  background-position: 38%;
   background-repeat: no-repeat;
   background-size: cover;
 }
