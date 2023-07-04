@@ -1,17 +1,12 @@
-.coming-soon-h1 {
- padding-top: 10vh;
-}
 
 .coming-soon-h1 {
+  padding-top: 10vh;
   font-family: 'Roboto', sans-serif;
   color: #fff;
   font-size: 1.25em;
   margin-left: 4vw;
 } 
 
-.coming-soon-h2 {
-  font-size: 1em;
-}
 
 .construction-container {
   background-image: url("imgs/marah_velvet_suit_edit2.jpeg");
